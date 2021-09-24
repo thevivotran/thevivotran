@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @thevivotran
 - 👀 I’m interested in Geospatial Data
 - 🌱 I’m currently learning Geopandas and Machine Learning
-- 💞️ I’m not looking to collaborate
 - 📫 How to reach me thevivotran@gmail.com
 
 <!---
