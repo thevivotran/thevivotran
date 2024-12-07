@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @thevivotran
-- 👀 I’m interested in Geospatial Data
-- 🌱 I’m currently learning Data Analyst and Data Science
+- 👀 I’m a Data Engineer
 - 📫 How to reach me thevivotran@gmail.com
 
 <!---
